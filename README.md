@@ -51,10 +51,21 @@ Covers:
 
 ---
 
+### 4. Threads
+
+* [SUMO_THREADS_EXPLAINED.md](SUMO_THREADS_EXPLAINED.md)
+
+Covers:
+
+* Threads explained in simpler terms
+
+---
+
 ## Suggested Order
 
 1. `SUMO_END_TO_END_FLOW.md`
 2. `SUMO_GUI_ARCHITECTURE.md`
 3. `SUMO_NETWORK_DATA_SHARING.md`
+4. `SUMO_THREADS_EXPLAINED.md`
 
 ---
